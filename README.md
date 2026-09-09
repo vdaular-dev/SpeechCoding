@@ -14,10 +14,10 @@ This tool uses Microsoft.Speech to recognize speech and sends result to editor. 
 5. Click start record button and let mouse cursor in the source code editor, and then speech.
 
 ## UI-Setting
-![Screenshot-setting](https://github.com/victor-wiki/StaticResources/blob/master/StaticResources/images/projs/SpeechCoding/setting.png?raw=true)
+![Screenshot-setting](https://github.com/victor-wiki/StaticResources/blob/master/images/projs/SpeechCoding/setting.png?raw=true)
 
 ## UI-Control word setting
-![Screenshot-controlWordSetting](https://github.com/victor-wiki/StaticResources/blob/master/StaticResources/images/projs/SpeechCoding/controlWordSetting.png?raw=true)
+![Screenshot-controlWordSetting](https://github.com/victor-wiki/StaticResources/blob/master/images/projs/SpeechCoding/controlWordSetting.png?raw=true)
 
 ## UI-Language setting
-![Screenshot-languageSetting](https://github.com/victor-wiki/StaticResources/blob/master/StaticResources/images/projs/SpeechCoding/languageSetting.png?raw=true)
+![Screenshot-languageSetting](https://github.com/victor-wiki/StaticResources/blob/master/images/projs/SpeechCoding/languageSetting.png?raw=true)
